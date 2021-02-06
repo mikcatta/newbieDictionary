@@ -59,9 +59,12 @@ A JavaScript transpiler that converts edge JavaScript into plain old ES5 JavaScr
 
 If you want to learn about ES6. All the good features of ES6 accompany one big problem — the majority of browsers don’t fully support them. That’s when Babel comes to its work. Babel may be a JS transpiler that converts new JS code into old ones. It is a really flexible tool in terms of transpiring. One can easily add assets such as es2015, es2016, es2017, or env; so that Babel compiles them to ES5.
 
+#### Back-end -
+This would relate to any database servers (such as MySQL aka MariaDB, PostgreSQL) and also any middle-ware, where a middle-ware server sits in between the front-end and the back-end server to process data into a form that can be displayed by the web-server. A "back-end" developer would therefore write code that resides on the database or in the middle-ware.
+
 #### Bcrypt
 The bcrypt hashing function allows us to build a password security platform that scales with computation power and always hashes every password with a salt. The process of generating salt is done using genSalt() and then the passwords that need to be hashed are hashed with this salt and bcrypt-ed password is ready.
-This works on the bluefish encryption algorithm.
+This works on the blowfish encryption algorithm.
                                          
 #### Boilerplate (code) - 
 The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template.
@@ -157,6 +160,9 @@ A platform developed by Google to build mobile and web applications. It provides
 
 #### Framework - 
 A platform for developing software applications. It has rules, instructions and some boundations which makes it different from a library. Since they are often built, tested, and optimized by several experienced software engineers and programmers, software frameworks are versatile, robust, and efficient. It is a language written to help you to write code easier. Often comes with **boilerplate** code to get you started.
+
+#### Front-end -
+This typically relates to the browser and also any Web-server technology in-use such as PHP, ASP.Net etc. A "front-end" developer would therefore write the code that is rendered in the browser and as such includes any Javascript or CSS. 
 
 #### Function -  
 The block of code that you can call by name, a function is independent of an object.
